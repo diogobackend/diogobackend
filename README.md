@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Diogo Ferreira 👋</h1>
+<h1 align="center">Olá, Sou Diogo Ferreira 👋</h1>
 
 <h3 align="center">
   Engenheiro de Software | Desenvolvedor Backend
