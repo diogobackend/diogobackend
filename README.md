@@ -46,22 +46,32 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogobackend&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
 
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api?username=diogobackend&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobackend&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogobackend&theme=github_dark"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/diogobackend/diogobackend/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/diogobackend/diogobackend/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições"
-       src="https://raw.githubusercontent.com/diogobackend/diogobackend/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/diogobackend/diogobackend/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/diogobackend/diogobackend/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animação das contribuições"
+      src="https://raw.githubusercontent.com/diogobackend/diogobackend/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
